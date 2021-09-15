@@ -1762,3 +1762,8 @@ text.actor {
 .md-diagram-panel {
   border: none !important;
 }
+
+p .md-image:only-child{
+    width: auto;
+    text-align: inherit;
+}
